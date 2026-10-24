@@ -1,0 +1,29 @@
+Rahul Patil
+rahul.patil@example.com | +91 98765 43210 | github.com/rahulp | linkedin.com/in/rahul-patil | leetcode.com/u/rahul_lc
+
+SUMMARY
+Final-year CSE student interested in backend development.
+
+EDUCATION
+B.E. Computer Science and Engineering, KLE Technological University, Belagavi
+CGPA: 8.4/10  2022 - 2026
+
+SKILLS
+Python, Java, SQL (MySQL), Git, REST APIs, Docker, React, DSA
+
+PROJECTS
+Placement Portal
+- Built a FastAPI + React portal for 500+ students with JWT auth
+- Reduced query time by 40% using indexing in PostgreSQL
+Library Management System
+- Developed a Java OOP application with MySQL backend
+
+EXPERIENCE
+Software Intern, ABC Tech
+- Developed REST APIs in Python serving 2000 requests per day
+- Collaborated with a team of 4 using Git and Agile
+
+CERTIFICATIONS
+- AWS Cloud Practitioner
+ACHIEVEMENTS
+- Solved 300+ problems on LeetCode

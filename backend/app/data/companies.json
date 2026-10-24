@@ -1,0 +1,419 @@
+{
+ "_note": "ILLUSTRATIVE seed data. Cut-offs, processes and role requirements are approximations for demo purposes; edit this file to match your campus drives.",
+ "companies": [
+  {
+   "name": "TCS",
+   "category": "IT services (mass recruiter)",
+   "min_cgpa": 6.0,
+   "dsa_weight": 0.3,
+   "process": "Aptitude + coding test, technical and HR interviews",
+   "roles": [
+    {
+     "title": "Ninja / Digital Developer",
+     "core": [
+      "python|java|c++|javascript",
+      "dsa",
+      "oop",
+      "sql",
+      "dbms"
+     ],
+     "nice": [
+      "git",
+      "rest api"
+     ],
+     "description": "Software development and support for enterprise clients."
+    },
+    {
+     "title": "Data Analyst Trainee",
+     "core": [
+      "sql",
+      "excel",
+      "statistics"
+     ],
+     "nice": [
+      "python",
+      "power bi|tableau",
+      "visualization"
+     ],
+     "description": "Analytics on client datasets."
+    }
+   ]
+  },
+  {
+   "name": "Infosys",
+   "category": "IT services (mass recruiter)",
+   "min_cgpa": 6.0,
+   "dsa_weight": 0.35,
+   "process": "Online assessment, technical and HR interviews",
+   "roles": [
+    {
+     "title": "Systems Engineer",
+     "core": [
+      "python|java|c++|javascript",
+      "dsa",
+      "oop",
+      "sql",
+      "dbms"
+     ],
+     "nice": [
+      "git",
+      "rest api",
+      "communication"
+     ],
+     "description": "Build and maintain enterprise applications."
+    },
+    {
+     "title": "Specialist Programmer",
+     "core": [
+      "dsa",
+      "python|java|c++",
+      "oop",
+      "sql",
+      "system design"
+     ],
+     "nice": [
+      "git",
+      "testing"
+     ],
+     "description": "Higher-bar coding role."
+    }
+   ]
+  },
+  {
+   "name": "Wipro",
+   "category": "IT services (mass recruiter)",
+   "min_cgpa": 6.0,
+   "dsa_weight": 0.3,
+   "process": "Online assessment, technical and HR interviews",
+   "roles": [
+    {
+     "title": "Project Engineer",
+     "core": [
+      "python|java|c++|javascript",
+      "dsa",
+      "oop",
+      "sql"
+     ],
+     "nice": [
+      "git",
+      "dbms",
+      "communication"
+     ],
+     "description": "Application development and testing."
+    }
+   ]
+  },
+  {
+   "name": "Cognizant",
+   "category": "IT services (mass recruiter)",
+   "min_cgpa": 6.0,
+   "dsa_weight": 0.35,
+   "process": "Aptitude and coding assessment, interviews",
+   "roles": [
+    {
+     "title": "Programmer Analyst",
+     "core": [
+      "python|java|c++|javascript",
+      "dsa",
+      "oop",
+      "sql",
+      "dbms"
+     ],
+     "nice": [
+      "rest api",
+      "git",
+      "agile"
+     ],
+     "description": "Develop client solutions."
+    },
+    {
+     "title": "Data Engineer Trainee",
+     "core": [
+      "sql",
+      "python",
+      "dbms"
+     ],
+     "nice": [
+      "cloud",
+      "pandas"
+     ],
+     "description": "Pipelines and warehousing."
+    }
+   ]
+  },
+  {
+   "name": "Capgemini",
+   "category": "IT services / consulting",
+   "min_cgpa": 6.0,
+   "dsa_weight": 0.3,
+   "process": "Aptitude, technical and HR interviews",
+   "roles": [
+    {
+     "title": "Analyst / Software Engineer",
+     "core": [
+      "python|java|c++|javascript",
+      "dsa",
+      "oop",
+      "sql"
+     ],
+     "nice": [
+      "git",
+      "rest api",
+      "communication"
+     ],
+     "description": "Application development and testing."
+    }
+   ]
+  },
+  {
+   "name": "Accenture",
+   "category": "Consulting / IT services",
+   "min_cgpa": 6.5,
+   "dsa_weight": 0.35,
+   "process": "Cognitive + coding assessment, interview",
+   "roles": [
+    {
+     "title": "Associate Software Engineer",
+     "core": [
+      "python|java|c++|javascript",
+      "dsa",
+      "oop",
+      "sql",
+      "dbms"
+     ],
+     "nice": [
+      "cloud",
+      "agile",
+      "communication"
+     ],
+     "description": "Agile delivery of client software."
+    },
+    {
+     "title": "Cloud Associate",
+     "core": [
+      "aws|azure|gcp",
+      "linux",
+      "computer networks"
+     ],
+     "nice": [
+      "docker",
+      "python"
+     ],
+     "description": "Cloud migration and operations."
+    }
+   ]
+  },
+  {
+   "name": "Deloitte",
+   "category": "Consulting",
+   "min_cgpa": 6.5,
+   "dsa_weight": 0.2,
+   "process": "Aptitude, technical and case/HR interviews",
+   "roles": [
+    {
+     "title": "Analyst (Technology / Data)",
+     "core": [
+      "sql",
+      "excel",
+      "communication",
+      "problem solving"
+     ],
+     "nice": [
+      "python",
+      "power bi|tableau",
+      "statistics"
+     ],
+     "description": "Technology and analytics consulting."
+    }
+   ]
+  },
+  {
+   "name": "Zoho",
+   "category": "Product company",
+   "min_cgpa": 0.0,
+   "dsa_weight": 0.7,
+   "process": "Multi-round programming tests followed by technical and HR rounds",
+   "roles": [
+    {
+     "title": "Member Technical Staff",
+     "core": [
+      "c++|java|python",
+      "dsa",
+      "oop",
+      "dbms",
+      "problem solving"
+     ],
+     "nice": [
+      "sql",
+      "system design",
+      "operating systems"
+     ],
+     "description": "Product engineering; heavy on programming fundamentals."
+    }
+   ]
+  },
+  {
+   "name": "Amazon",
+   "category": "Product company (big tech)",
+   "min_cgpa": 7.0,
+   "dsa_weight": 0.9,
+   "process": "Online assessment, multiple DSA/system rounds, behavioural (leadership principles)",
+   "roles": [
+    {
+     "title": "SDE-1",
+     "core": [
+      "dsa",
+      "python|java|c++",
+      "oop",
+      "sql",
+      "system design",
+      "problem solving"
+     ],
+     "nice": [
+      "operating systems",
+      "computer networks",
+      "git",
+      "testing"
+     ],
+     "description": "Build scalable services; strong DSA bar."
+    }
+   ]
+  },
+  {
+   "name": "Microsoft",
+   "category": "Product company (big tech)",
+   "min_cgpa": 7.0,
+   "dsa_weight": 0.9,
+   "process": "Online assessment, multiple DSA/design rounds",
+   "roles": [
+    {
+     "title": "Software Engineer",
+     "core": [
+      "dsa",
+      "python|java|c++|c#",
+      "oop",
+      "system design",
+      "operating systems"
+     ],
+     "nice": [
+      "sql",
+      "git",
+      "testing"
+     ],
+     "description": "Product engineering; strong CS fundamentals."
+    }
+   ]
+  },
+  {
+   "name": "Flipkart",
+   "category": "Product company (e-commerce)",
+   "min_cgpa": 7.0,
+   "dsa_weight": 0.85,
+   "process": "Coding round, DSA rounds, machine coding, system design",
+   "roles": [
+    {
+     "title": "SDE-1",
+     "core": [
+      "dsa",
+      "java|python|c++",
+      "oop",
+      "dbms",
+      "system design"
+     ],
+     "nice": [
+      "rest api",
+      "sql",
+      "git"
+     ],
+     "description": "Backend services at scale."
+    }
+   ]
+  },
+  {
+   "name": "Razorpay",
+   "category": "Startup / fintech",
+   "min_cgpa": 7.0,
+   "dsa_weight": 0.75,
+   "process": "DSA, machine coding, design and culture rounds",
+   "roles": [
+    {
+     "title": "Backend Engineer",
+     "core": [
+      "python|java|go|node.js",
+      "dsa",
+      "sql",
+      "rest api",
+      "git",
+      "dbms"
+     ],
+     "nice": [
+      "docker",
+      "system design",
+      "aws|azure|gcp"
+     ],
+     "description": "Payments APIs and platform services."
+    },
+    {
+     "title": "Full Stack Engineer",
+     "core": [
+      "javascript",
+      "react",
+      "node.js",
+      "sql",
+      "rest api",
+      "git"
+     ],
+     "nice": [
+      "typescript",
+      "docker",
+      "testing"
+     ],
+     "description": "Dashboards and merchant products."
+    }
+   ]
+  },
+  {
+   "name": "Data & AI startups",
+   "category": "Startup / analytics",
+   "min_cgpa": 6.5,
+   "dsa_weight": 0.5,
+   "process": "Take-home assignment, technical and project discussion",
+   "roles": [
+    {
+     "title": "ML Engineer / Data Scientist",
+     "core": [
+      "python",
+      "machine learning",
+      "pandas",
+      "numpy",
+      "statistics",
+      "sql"
+     ],
+     "nice": [
+      "deep learning",
+      "pytorch|tensorflow",
+      "docker",
+      "nlp"
+     ],
+     "description": "Model development and deployment."
+    },
+    {
+     "title": "DevOps / Cloud Engineer",
+     "core": [
+      "linux",
+      "docker",
+      "aws|azure|gcp",
+      "ci/cd",
+      "git"
+     ],
+     "nice": [
+      "kubernetes",
+      "terraform",
+      "python"
+     ],
+     "description": "Infrastructure and delivery pipelines."
+    }
+   ]
+  }
+ ]
+}
